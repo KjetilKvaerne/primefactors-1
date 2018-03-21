@@ -1,0 +1,18 @@
+﻿# Primtall er ett tall som er større en 1 og kun delelig med seg selv
+# Primtallsfaktorering betyr at du kan skrive ett tall som ett produkt av primtall ganget med hverandre
+# Eksempel på primtallsfaktorering: 12 =  2 * 2 * 3
+
+Skriv ett program som tar inn ett tall og returnerer alle primtalsfaktorene.
+
+1 -> Tomliste
+2 -> 2
+3 -> 3
+4 -> 2, 2
+5 -> 5
+6 -> 2, 3
+7 -> 7
+8 -> 2, 2, 2
+9 -> 3, 3
+
+
+
